@@ -4,3 +4,4 @@ flask
 seaborn
 scikit-learn
 datetime
+#python -m src.pipelines.training_pipeline
